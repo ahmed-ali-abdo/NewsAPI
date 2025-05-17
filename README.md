@@ -93,5 +93,3 @@ This project is licensed under the MIT License.
 - Setup instructions based on .NET 8 and EF Core.
 - API endpoint documentation for quick reference.
 - Technology stack and contribution guidelines.
-
-Let me know if you need a more detailed section or want to include usage examples!
